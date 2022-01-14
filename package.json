@@ -9,7 +9,6 @@
   "author": "Destin Moulton",
   "license": "MIT",
   "dependencies": {
-    "fast-glob": "^3.2.10",
     "fastify": "^3.25.3",
     "glob": "^7.2.0",
     "nunjucks": "^3.2.3",
