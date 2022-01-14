@@ -1,0 +1,17 @@
+{
+  "name": "puppetmaster",
+  "version": "0.0.1",
+  "description": "A sandbox for testing puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Destin Moulton",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.25.3",
+    "nunjucks": "^3.2.3",
+    "point-of-view": "^5.0.0",
+    "puppeteer": "^13.0.1"
+  }
+}
