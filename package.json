@@ -9,7 +9,9 @@
   "author": "Destin Moulton",
   "license": "MIT",
   "dependencies": {
+    "fast-glob": "^3.2.10",
     "fastify": "^3.25.3",
+    "glob": "^7.2.0",
     "nunjucks": "^3.2.3",
     "point-of-view": "^5.0.0",
     "puppeteer": "^13.0.1"
